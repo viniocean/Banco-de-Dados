@@ -12,11 +12,11 @@ Perguntas e respostas
 
 1 - Existem outras entidades além dessas três?
 
-R: Sim, as entidades foram relacionadas com outras entidades para agregar as que foram solicitadas.
+R: Sim, as entidades foram relacionadas com outras entidades, assim agregando as que foram solicitadas.
 
 2 - Quais são os principais campos e tipos?
 
-R: Cinema, Salas, Ingresso, Catalogo, Atendente
+R: Atendente, Salas, Cinema, Catalogo, Ingresso
 
 3 - Como essas entidades estão relacionadas?
 
